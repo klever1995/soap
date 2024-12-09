@@ -1,0 +1,95 @@
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\appsettings.json
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\soap.staticwebassets.runtime.json
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\soap.exe
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\soap.deps.json
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\soap.runtimeconfig.json
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\soap.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\soap.pdb
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\SoapCore.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\System.Private.ServiceModel.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\System.ServiceModel.Http.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\System.ServiceModel.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USUARIO\source\repos\soap\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\soap.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\soap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\soap.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\soap.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\soap.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\soap.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\soap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\soap.RazorAssemblyInfo.cache
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\soap.RazorAssemblyInfo.cs
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\staticwebassets\msbuild.soap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\staticwebassets\msbuild.build.soap.props
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.soap.props
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.soap.props
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\scopedcss\bundle\soap.styles.css
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\scopedcss\projectbundle\soap.bundle.scp.css
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\soap.csproj.Up2Date
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\soap.dll
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\refint\soap.dll
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\soap.pdb
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\soap.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\soap\obj\Debug\net8.0\ref\soap.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\appsettings.json
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\soap.staticwebassets.runtime.json
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\soap.exe
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\soap.deps.json
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\soap.runtimeconfig.json
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\soap.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\soap.pdb
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\SoapCore.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\System.Private.ServiceModel.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\System.ServiceModel.Http.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\System.ServiceModel.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.csproj.AssemblyReference.cache
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.AssemblyInfoInputs.cache
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.AssemblyInfo.cs
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.csproj.CoreCompileInputs.cache
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.RazorAssemblyInfo.cache
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.RazorAssemblyInfo.cs
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.sourcelink.json
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\staticwebassets\msbuild.soap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\staticwebassets\msbuild.build.soap.props
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.soap.props
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.soap.props
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\scopedcss\bundle\soap.styles.css
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\scopedcss\projectbundle\soap.bundle.scp.css
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.csproj.CopyComplete
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\refint\soap.dll
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.pdb
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\soap.genruntimeconfig.cache
+C:\Users\Klever\Downloads\Ejercicios-Distribuida\arquitecturas de software\soap\soap1\obj\Debug\net8.0\ref\soap.dll
